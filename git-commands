@@ -1,0 +1,6 @@
+touch file-name
+git add .
+git commit -m "label"
+git log
+git show cid
+
