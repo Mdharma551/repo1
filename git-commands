@@ -3,4 +3,12 @@ git add .
 git commit -m "label"
 git log
 git show cid
-
+about branches
+----------
+git branch
+git branch branch-name
+git checkout branch-name
+git merge branch-name
+git push
+git push origin branch-name
+HELLO DHARMA makkena
